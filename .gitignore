@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Uploaded user images
+uploads/*
+!uploads/.gitkeep
